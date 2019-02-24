@@ -25,6 +25,8 @@ La idea de la aplicación es acceder a un listado de códigos o funciones y enco
 ``` 
 	* Instalar MongoDB en c:\
 
+	* Crear Base de Datos "wikicode" y esquema "users"
+
 	* Crear carpeta data > db en C:\
 
 	* Instalar NodeJS y dependencias (npm install express, npm install body-parser, npm install nodemoon, npm install mongoose)
